@@ -5,4 +5,4 @@ analytics techniques in this project to identify key metrics and developed Multi
 Regression, Random Forest Regressor, and XGBoost models. These models successfully 
 predicted employee Monthly Income with over 99% accuracy. 
 
-The IBM HR Analytics Employee Attrition & Performance dataset was used in this project.
+The IBM HR Analytics Employee Attrition & Performance dataset (2023) was used in this project.
